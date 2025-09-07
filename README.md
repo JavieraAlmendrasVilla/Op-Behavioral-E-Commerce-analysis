@@ -66,6 +66,3 @@ These findings give clear levers for **personalized marketing strategies**, such
 * Test additional clustering algorithms (DBSCAN, hierarchical).
 * Build interactive dashboards (Streamlit/Plotly Dash) for real-time insights.
 * Enrich analysis with external data (holidays, marketing campaigns).
-
-
-Do you want me to also **tighten it into a one-paragraph “portfolio blurb”** that you could paste on LinkedIn or your CV? That way, recruiters get the quick-hit version without having to read the whole repo.
